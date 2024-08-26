@@ -1,14 +1,14 @@
 # I am Windham Wong, a.k.a. DrKN
 Welcome to my private portal.
 
-Nowhere Is Better Than 127.0.0.1, eh?_
+🏠 Nowhere Is Better Than 127.0.0.1, eh?_ 
 
-Dedicated Cybersecurity GitHub Profile: <a href="https://github.com/windhamsecurity">@windhamsecurity</a>
+⭐ Dedicated Cybersecurity GitHub Profile 👉 <a href="https://github.com/windhamsecurity">@windhamsecurity</a>
 
 <a href="https://www.linkedin.com/in/windhamwong/"><img src="https://badgen.net/static/LinkedIn/Profile/grey?labelColor=0077B5"></a>
 
 ## Who? About Me!
-<img height=300 src="./gif1.gif">
+<img height=300 src="https://raw.githubusercontent.com/windhamwong/windhamwong/main/gif1.gif">
 I am Windham Wong, experienced cybersecurity personnel who passionated in cybersecurity and development. Currently expanding my knowledge pool to blockchain and AI.
 
 I do red teaming, and also awareness training and other development projects. My goal is to create a more secure and systematic better world.
@@ -41,5 +41,5 @@ I do red teaming, and also awareness training and other development projects. My
 
 
 ## GitHub Stats
-<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=windhamwong&hide=html,css&theme=gotham">
-<img width=300 src="https://github-readme-stats.vercel.app/api?username=windhamwong&hide=html,css&theme=gotham">
+<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=windhamwong&hide=html,css&theme=gotham">
+<img width=500 src="https://github-readme-stats.vercel.app/api?username=windhamwong&hide=html,css&theme=gotham">
