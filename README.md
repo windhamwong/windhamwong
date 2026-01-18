@@ -14,10 +14,16 @@ I am Windham Wong, experienced cybersecurity personnel who passionated in cybers
 I do red teaming, and also awareness training and other development projects. My goal is to create a more secure and systematic better world.
 
 ### Skills & Knowledge:
-- Languages
+- Cybersecurity
+  - Penetration Testing and Red Teaming
+  - Security Operation Centre (SOC) opeartions
+  - Cloud and infrastructure assessment and audit
+  - Compliance review and audit
+- Programming Languages
   - Python
   - Perl
-  - ReactJS
+  - TypeScript
+  - and others that are less using...
 - Systems
   - Ubuntu/Debian
   - Windows
@@ -27,19 +33,11 @@ I do red teaming, and also awareness training and other development projects. My
   - Apache Kafka
   - ELK
   - Apache Heron
-- Others
-  - Langchain
 
 
 ### Career Journey:
+- InfoSec Manager, Cybersecurity & AI, [AIFT](https://aift.io/), group business of [OneDegree](https://www.onedegree.hk/), [Vulcan](https://vulcanlab.ai/), [OneInfinity](https://oneinfinity.global/)
 - Manager, Cybersecurity, Mazars Consulting (HK) Limited
 - Founder, Frontshop Co.
 - Co-Founder, StormEye.io
 - Former Security Analyst, Alert Logic, UK
-
-
-
-
-## GitHub Stats
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=windhamwong&hide=html,css&theme=gotham">
-<img width=500 src="https://github-readme-stats.vercel.app/api?username=windhamwong&hide=html,css&theme=gotham">
